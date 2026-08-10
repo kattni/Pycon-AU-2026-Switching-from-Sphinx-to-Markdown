@@ -31,4 +31,4 @@ Links to various tools and projects mentioned in the talk, in order of appearanc
 - [Rubicon Objective-C documentation](https://rubicon-objc.beeware.org)
 - [BeeWare.org source code](https://github.com/beeware/beeware.github.io)
 - [ProperDocs](https://properdocs.org/)
-- [Zensical](https://zensical.org/)****
+- [Zensical](https://zensical.org/)
